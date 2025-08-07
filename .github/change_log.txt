@@ -1,0 +1,2 @@
+2025-08-07 - NERC Excel file updated.
+2025-08-03 - Initial monitoring started.
