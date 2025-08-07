@@ -1,9 +1,0 @@
-nerc-site/
-│
-├── app.py
-├── change_log.txt
-├── requirements.txt
-├── .env (for local dev, not deployed)
-├── templates/
-│   ├── login.html
-│   └── dashboard.html
